@@ -93,7 +93,7 @@ pillow==11.1.0
 playwright==1.50.0
 posthog==3.18.1
 propcache==0.3.0
-protobuf==5.29.3
+protobuf==5.29.5
 proto-plus==1.26.0
 ptyprocess==0.7.0
 pyasn1==0.6.1
