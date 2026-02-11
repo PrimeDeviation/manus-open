@@ -89,7 +89,7 @@ opentelemetry-util-http==0.51b0
 orjson==3.10.15
 packaging==24.2
 pexpect==4.9.0
-pillow==11.1.0
+pillow==12.1.1
 playwright==1.50.0
 posthog==3.18.1
 propcache==0.3.0
